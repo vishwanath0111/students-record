@@ -1,0 +1,4 @@
+  S.NO    NAME        DUE-FEES
+   1    vishwam       8000
+   2    shanmuk       0
+   3    deekshitha    10000

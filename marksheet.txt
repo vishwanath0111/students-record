@@ -1,0 +1,24 @@
+Marks sheet details of student 1 : vishwam
+ SUBJECT     MARKS
+ Language1   85
+ Language2   90
+ Language3   89
+ Maths       95
+ Science     98
+ Social      92
+Marks sheet details of student 2 : shanmuk
+ SUBJECT     MARKS
+ Language1   90
+ Language2   75
+ Language3   82
+ Maths       92
+ Science     91
+ Social      88
+Marks sheet details of student 3 : deekshitha
+ SUBJECT     MARKS
+ Language1   95
+ Language2   82
+ Language3   91
+ Maths       91
+ Science     89
+ Social      94
